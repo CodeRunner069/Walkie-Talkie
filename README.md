@@ -27,8 +27,8 @@ Any kind of contributions are welcome.
 
 # Developer Details:
 
-Name:- Ankur Bodhak
-Copyright (c) 2022 Ankur Bodhak
+Name:- Swastik Gaurav Sahoo
+Copyright (c) 2024 Swastik Gaurav Sahoo
 
 #License Details:
 Apache License
